@@ -4,6 +4,7 @@ A comprehensive Django REST API backend for a placement assistance application t
 
 ## 🚀 Features
 
+
 ### Core Modules
 - **Resume & Cover Letter Generator**
   - Upload and parse resumes (PDF/DOCX)
@@ -71,6 +72,7 @@ A comprehensive Django REST API backend for a placement assistance application t
 
 ## 🚀 Setup Instructions
 
+
 ### Prerequisites
 - Python 3.8+
 - pip
@@ -126,6 +128,7 @@ A comprehensive Django REST API backend for a placement assistance application t
 - **API Documentation**: Available through Django REST Framework browsable API
 
 ## 📝 Usage Examples
+
 
 ### Upload Resume
 ```bash
